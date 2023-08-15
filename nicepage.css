@@ -66,7 +66,7 @@
     .fr-view table.fr-alternate-rows tbody tr:nth-child(2n) {
       background: rgb(26, 25, 25); }
     .fr-view table td, .fr-view table th {
-      border: 1px solid #DDD; }
+      border: 1px solid #191919; }
       .fr-view table td:empty, .fr-view table th:empty {
         height: 20px; }
       .fr-view table td.fr-highlighted, .fr-view table th.fr-highlighted {
