@@ -31,7 +31,7 @@
 .fr-view img.fr-shadow, .fr-view .fr-img-caption.fr-shadow img {
   -webkit-box-shadow: 10px 10px 5px 0px #111111;
   -moz-box-shadow: 10px 10px 5px 0px #161616;
-  box-shadow: 10px 10px 5px 0px #cccccc; }
+  box-shadow: 10px 10px 5px 0px #111111; }
 
 .fr-view img.fr-bordered, .fr-view .fr-img-caption.fr-bordered img {
   border: solid 5px #CCC; }
