@@ -19,7 +19,7 @@
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   border: 0; }
-
+/*ajustes en la imagen*/
 .fr-view img.fr-rounded, .fr-view .fr-img-caption.fr-rounded img {
   border-radius: 10px;
   -moz-border-radius: 10px;
