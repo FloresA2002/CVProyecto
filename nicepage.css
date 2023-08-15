@@ -70,7 +70,7 @@
       .fr-view table td:empty, .fr-view table th:empty {
         height: 20px; }
       .fr-view table td.fr-highlighted, .fr-view table th.fr-highlighted {
-        border: 1px double red; }
+        border: 1px double rgb(215, 211, 211); }
       .fr-view table td.fr-thick, .fr-view table th.fr-thick {
         border-width: 2px; }
     .fr-view table th {
