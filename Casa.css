@@ -175,7 +175,7 @@
     margin-left: 0;
   }
 } .u-section-2 {
-  background-image: linear-gradient(#555c66, #292d33);
+  background-image: linear-gradient(#4e77b1, #112747);
 }
 
 .u-section-2 .u-sheet-1 {
@@ -319,6 +319,7 @@
   --animation-custom_in-scale: 1;
   margin: -20px 0 0 auto;
 }
+/*ajustes en el container*/
 
 .u-section-2 .u-container-layout-4 {
   padding: 0 30px 30px;
@@ -414,7 +415,7 @@
 .u-section-2 .u-btn-4 {
   background-image: none;
   letter-spacing: 1px;
-  text-shadow: 0 0 0 rgba(0,0,0,0);
+  text-shadow: 0 0 0 rgba(198, 189, 189, 0);
   font-size: 1.125rem;
   text-transform: uppercase;
   font-weight: 700;
@@ -593,7 +594,7 @@
     margin-right: 105px;
   }
 } .u-section-3 {
-  background-image: linear-gradient(#292d33, #555c66);
+  background-image: linear-gradient(#2e4d7d, #dee0e3);
 }
 
 .u-section-3 .u-sheet-1 {
@@ -620,7 +621,7 @@
   width: 149px;
   min-height: 149px;
   background-image: none;
-  text-shadow: 0px 0px 0 rgba(0,0,0,0);
+  text-shadow: 0px 0px 0 rgba(172, 55, 55, 0);
   height: auto;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
@@ -724,6 +725,7 @@
   --animation-custom_in-scale: 1;
   margin: 14px auto 0;
 }
+/*ajustes en el texto*/
 
 .u-section-3 .u-text-7 {
   font-size: 2.25rem;
@@ -994,7 +996,7 @@
 .u-container-layout.hover .u-section-3 .u-text-9 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 } .u-section-4 {
-  background-image: linear-gradient(#555c66, #292d33);
+  background-image: linear-gradient(#e2e4e7, #292d33);
 }
 
 .u-section-4 .u-sheet-1 {
